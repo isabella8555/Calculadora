@@ -1,8 +1,11 @@
 🧮 Calculadora
 
+🔗 Acesse o projeto online:
+👉 https://calculadoraisabella.netlify.app/
+
 Uma calculadora simples feita com HTML, CSS e JavaScript.
 
-Funcionalidades
+📌 Funcionalidades
 
 Operações básicas (adição, subtração, multiplicação e divisão)
 
@@ -12,7 +15,7 @@ Suporte a números decimais
 
 Interface simples e fácil de usar
 
-Tecnologias usadas
+🛠️ Tecnologias usadas
 
 HTML
 
@@ -20,12 +23,6 @@ CSS
 
 JavaScript
 
-Objetivo
+🎯 Objetivo
 
 Projeto desenvolvido para praticar lógica de programação e manipulação do DOM.
-
-Como usar
-
-Baixe ou clone o repositório
-
-Abra o arquivo index.html no navegador
